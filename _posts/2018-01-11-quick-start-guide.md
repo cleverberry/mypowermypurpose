@@ -6,6 +6,7 @@ categories: [ power, life ]
 image: assets/images/12.jpg
 featured: true
 hidden: true
+tags: [life, nourishment]
 ---
 
 This is a sample featured post.
