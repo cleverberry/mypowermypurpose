@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About Us
-permalink: /about
+title: Contact Us
+permalink: /contactus
 comments: true
 ---
 
