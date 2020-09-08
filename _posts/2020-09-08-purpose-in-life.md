@@ -4,8 +4,8 @@ title:  "Purpose in Life"
 author: sal
 categories: [ power, life ]
 image: assets/images/12.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 tags: [life, nourishment]
 ---
 

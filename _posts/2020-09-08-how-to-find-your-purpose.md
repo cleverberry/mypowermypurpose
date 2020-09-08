@@ -4,8 +4,8 @@ title:  "How to Find Your Purpose"
 author: sal
 categories: [ power, life ]
 image: assets/images/12.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 tags: [life, nourishment]
 ---
 <p>Is it accurate to say that you are attempting to find your purpose? That might bebecause you feel separate from others. Here's the way you can beat that.</p>
