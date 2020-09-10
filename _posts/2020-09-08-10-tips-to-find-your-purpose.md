@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "10 Tips to Find Your Purpose"
-author: sal
+author: Cleverberry
 categories: [ power, life ]
 image: assets/images/12.jpg
 featured: false

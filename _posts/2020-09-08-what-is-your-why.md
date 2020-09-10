@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "What is Your Why"
-author: sal
+author: Cleverberry
 categories: [ power, life ]
 image: assets/images/12.jpg
 featured: true

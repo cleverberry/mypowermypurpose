@@ -13,23 +13,15 @@ permalink: pretty
 
 # Authors
 authors:
-  sal:
-    name: 
-    display_name: 
+  Cleverberry:
+    name: Cleverberry
+    display_name: Cleverberry
     gravatar: https://cleverberry.com/wp-content/uploads/2020/08/berrylogowhite.png
-    email: 
-    web: 
-    twitter: 
+    email: social@cleverberry.co.uk
+    web: https://cleverberry.co.uk/
+    twitter: https://twitter.com/cleverberry_
     description: ""
-  john:
-    name: 
-    display_name:     
-    avatar: ''
-    gravatar: https://cleverberry.com/wp-content/uploads/2020/08/berrylogowhite.png
-    email: 
-    web: 
-    twitter: 
-    description: ""
+
 
 # Plugins
 plugins:

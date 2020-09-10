@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Purpose in Life"
-author: sal
+author: Cleverberry
 categories: [ power, life ]
 image: assets/images/12.jpg
 featured: false

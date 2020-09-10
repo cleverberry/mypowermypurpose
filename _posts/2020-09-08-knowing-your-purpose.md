@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Knowing Your Purpose"
-author: sal
+author: Cleverberry
 categories: [ power, life ]
 image: assets/images/12.jpg
 featured: false
