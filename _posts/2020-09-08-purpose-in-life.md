@@ -3,7 +3,7 @@ layout: post
 title:  "Purpose in Life"
 author: Cleverberry
 categories: [ power, life ]
-image: assets/images/12.jpg
+image: assets/images/article-images/purpose in life.jpg
 featured: false
 hidden: false
 tags: [life, nourishment]

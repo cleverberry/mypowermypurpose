@@ -3,7 +3,7 @@ layout: post
 title:  "Seeing Yourself Whole"
 author: Cleverberry
 categories: [ power, life ]
-image: assets/images/12.jpg
+image: assets/images/article-images/seeing urself whole.jpg
 featured: true
 hidden: true
 tags: [life, nourishment]

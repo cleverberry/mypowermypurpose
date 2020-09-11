@@ -3,7 +3,7 @@ layout: post
 title:  "How to Find Your Purpose"
 author: Cleverberry
 categories: [ power, life ]
-image: assets/images/12.jpg
+image: assets/images/article-images/how 2 find ur purpose.jpg
 featured: false
 hidden: false
 tags: [life, nourishment]

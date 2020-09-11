@@ -2,8 +2,8 @@
 name: "My Power My Purpose"
 title: "My Power My Purpose"
 description: "Tips for being a powerful you with a purpose."
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+logo: "assets/images/mypowermypurpose icon.png"
+favicon: assets/images/mypowermypurpose icon.png
 baseurl: ""
 google_analytics: 'UA-176636207-4'
 disqus: ''
@@ -16,12 +16,14 @@ authors:
   Cleverberry:
     name: Cleverberry
     display_name: Cleverberry
-    gravatar: https://cleverberry.com/wp-content/uploads/2020/08/berrylogowhite.png
+    gravatar: assets/images/mypowermypurpose icon.png
     email: social@cleverberry.co.uk
     web: https://cleverberry.co.uk/
     twitter: https://twitter.com/cleverberry_
     description: ""
 
+
+twitter_handle: '@cleverberry_'
 
 # Plugins
 plugins:

@@ -3,7 +3,7 @@ layout: post
 title:  "Knowing Your Purpose"
 author: Cleverberry
 categories: [ power, life ]
-image: assets/images/12.jpg
+image: assets/images/article-images/knowing ur purpose.jpg
 featured: false
 hidden: false
 tags: [life, nourishment]

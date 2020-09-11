@@ -3,7 +3,7 @@ layout: post
 title:  "What is Your Why"
 author: Cleverberry
 categories: [ power, life ]
-image: assets/images/12.jpg
+image: assets/images/article-images/wat is ur y.jpg
 featured: true
 hidden: true
 tags: [life, nourishment]
